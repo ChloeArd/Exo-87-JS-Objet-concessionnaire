@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-family: 'Andika New Basic', sans-serif;
+    background-color: black;
+}
+
+#title {
+    background-color: #976B4E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+#container {
+    width: 70%;
+    margin: auto;
+    background-color: #535C6B;
+    height: 1000px;
+    display: flex;
+}
+
+#photo {
+    padding: 20px;
+    width: 40%;
+}
+
+#description {
+    width: 70%;
+    font-size: 25px;
+    color: white;
+}
