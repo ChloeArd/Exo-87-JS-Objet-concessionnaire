@@ -33,12 +33,3 @@ character("Son carburant est le " + voiture.Carburant);
 character("Elle a " + voiture.nombrePortes + " portes");
 character("Eggo a une autonomie de " + voiture.Autonomie);
 character("Sa vitesse maximum est de " + voiture.vitesseMaxi);
-
-
-
-
-
-
-
-
-

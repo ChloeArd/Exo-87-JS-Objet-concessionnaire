@@ -23,6 +23,7 @@ body {
     justify-content: center;
     width: 100%;
     padding: 20px;
+    font-size: 20px;
 }
 
 #container {
@@ -42,4 +43,8 @@ body {
     width: 70%;
     font-size: 25px;
     color: white;
+}
+
+#photo, #description {
+    margin-top: 60px;
 }
